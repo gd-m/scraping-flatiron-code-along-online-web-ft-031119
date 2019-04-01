@@ -24,4 +24,4 @@ class Scraper
 
 end
 
-Screper.new.get_pag
+Scraper.new.get_pag
