@@ -23,3 +23,5 @@ class Scraper
   end
 
 end
+
+Screper.new.get_pag
